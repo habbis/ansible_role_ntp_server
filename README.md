@@ -24,6 +24,6 @@ Example site.yml
     #-  defaults/secrets.yml
 
   roles:
-    - { role: ../ntp_client }
+    - { role: ../ansible_role_ntp_client }
 ```
 
