@@ -11,7 +11,7 @@
   tasks:
     - name: "Include ansible_role_ntp_server"
       include_role:
-        name: "ansible_role_ntp_client"
+        name: "ansible_role_ntp_server"
 
   #roles:
     #- role: habbis.ansible_role_ntp_server
