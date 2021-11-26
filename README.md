@@ -1,7 +1,7 @@
-ntp_server
+ansible_role_ntp_server
 =========
 
-[![CI](https://github.com/habbis/ntp_server/workflows/CI/badge.svg)](https://github.com/habbis/ntp_server/actions?query=workflow%3ACI)
+[![CI](https://github.com/habbis/ansible_role_ntp_server/workflows/CI/badge.svg)](https://github.com/habbis/ansible_role_ntp_server/actions?query=workflow%3ACI)
 
 My ansible role setup chrony ntp server.
 

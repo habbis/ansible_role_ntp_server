@@ -1,4 +1,4 @@
 ---
 # variables
 
-ntp_server: 0.no.pool.ntp.org
+ansible_role_ntp_server: 0.no.pool.ntp.org
