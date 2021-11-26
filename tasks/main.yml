@@ -7,7 +7,7 @@
 - name: Install chrony
   package:
     name:
-      - chrony
+      - chronyd
     state: present
 
 - name: setup client ntp chronyd config rhel
